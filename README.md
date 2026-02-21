@@ -85,7 +85,7 @@ Reconstructed complete Formula 1 history (1950-2024) with custom Star Schema war
 </td>
 <td width="50%">
 
-### 🏢 Data Warehouse - MySQL
+### 🏢 Data Warehouse - TSQL
 **Modern warehouse architecture**
 
 Built comprehensive data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
